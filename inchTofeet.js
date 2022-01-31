@@ -6,6 +6,6 @@ function mileToKilometer(miles){
     return km;
 }
 var marathon =mileToKilometer(26.2);
-console.log('marathon in km:',marathon);
+console.log('marathon in kilometer:',marathon);
 
 
