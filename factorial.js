@@ -21,5 +21,5 @@ function getFactorial(number){
     }
     return factorial;
 }
-var firstFactorial=getFactorial(13);
+var firstFactorial=getFactorial(10);
 console.log('factorial of 9',firstFactorial);
